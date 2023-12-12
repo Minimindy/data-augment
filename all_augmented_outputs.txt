@@ -1,0 +1,23 @@
+Original Text:
+炒鳝拆鳝丝炒之，略焦，如炒肉鸡之法，不可用水
+
+EasyDataAugmenter:
+['炒鳝拆鳝丝炒之，略焦，如炒肉鸡之法，不可用水', '炒鳝拆鳝丝之，略焦，如炒肉鸡之法，不可用水', '炒鳝法丝炒之，略焦，如炒肉鸡之法，拆鳝用水']
+
+WordNetAugmenter:
+['炒鳝拆鳝丝炒之，略焦，如炒肉鸡之法，不可用水']
+
+DeletionAugmenter:
+['炒鳝拆鳝丝炒之，略焦，如炒肉鸡法，不可用水']
+
+EmbeddingAugmenter:
+['炒鳝拆鳝丝炒之，略焦，如炒肉鸡之法，不可用水']
+
+CharSwapAugmenter:
+['鳝炒拆鳝丝炒之，略焦，如炒肉鸡之法，不可用水']
+
+CheckListAugmenter:
+['炒鳝拆鳝丝炒之，略焦，如炒肉鸡之法，不可用水']
+
+BackTranslationAugmenter:
+['No, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,,,,,, no, no, no, no,, no,, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,, no, no, no, no, no, no, no, no, no, no, no, no, no, no, no,,,,,, no,, no, no, no, no,']
